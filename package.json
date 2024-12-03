@@ -1,0 +1,18 @@
+{
+  "name": "redis-sample",
+  "version": "1.0.0",
+  "description": "stock tracker sample to implement redis cache",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Denis McMahon",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.6",
+    "express": "^4.21.1",
+    "nodemon": "^3.1.7",
+    "redis": "^4.7.0"
+  }
+}
